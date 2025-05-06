@@ -2,9 +2,7 @@
 <h1 align="center">👨‍💻 Raimundo Monsalve</h1>
 <h3 align="center">Estudiante de Ingeniería en Informática | Apasionado por la programación, los datos y la astronomía 🌌</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;" alt="foto perfil Raimundo">
-</p>
+
 
 <hr/>
 
@@ -67,18 +65,9 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/><br/><br/>
 
 
-  <br/><br/>
-
-  
-
-   
-  
-  
+  <br/><br/> 
   
 </div>
-
-
-
 <!-- Tarjeta: Proyectos personales -->
 <div style="padding: 15px; border: 1px solid #ccc; border-radius: 15px; margin-bottom: 20px">
   <h2>🛠️ Proyectos personales</h2>
@@ -103,15 +92,7 @@
   </ul>
 </div>
 
-<!-- Tarjeta: Estadísticas -->
-<div align="center">
-  <h2>📈 Estadísticas GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=raimundomonsalve&show_icons=true&theme=react&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raimundomonsalve&theme=react" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raimundomonsalve&theme=react-dark" />
-</div>
+
 
 <!-- Footer -->
 <hr/>
